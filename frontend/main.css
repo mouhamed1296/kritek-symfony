@@ -1,0 +1,44 @@
+.invoice-details {
+    border: 1px solid lightgray;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    width: 40%;
+}
+
+.hide {
+    display: none;
+}
+
+.details {
+    border: none;
+    outline: none;
+    background-color: cornflowerblue;
+    padding: 0.5rem;
+}
+
+.hide-btn {
+    border: none;
+    outline: none;
+    margin-left: 0.7rem;
+    background-color: #b53636;
+    padding: 0.5rem;
+    color: white;
+}
+
+/*Form styles*/
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 25%;
+    margin: 0.5rem 0;
+}
+
+.add {
+    border: none;
+    outline: none;
+    background-color: #156c10;
+    padding: 0.5rem;
+    color: white;
+}
